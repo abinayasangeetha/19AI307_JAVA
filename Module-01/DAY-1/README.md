@@ -18,7 +18,6 @@ To create a class named 'Student' with String variable 'name' and String variabl
 
 ## PROGRAM:
  ```
-/*
 Program to implement a class & objects using Java
 Developed by: ABINAYA S
 RegisterNumber:  212222230002
@@ -57,4 +56,5 @@ public class Main {
 
 ## RESULT:
 Thus, the class named 'Student' with String variable 'name' and String variable 'address' was created successfully.
+
 
